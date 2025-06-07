@@ -20,3 +20,6 @@ def videw_data(patient_id: str):
 def data():
     data = load_data()
     return data.values()
+
+
+print(data())
