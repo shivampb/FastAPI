@@ -48,5 +48,25 @@
     "weight": 75,
     "bmi": 31.22,
     "verdict": "Obese"
+  },
+  "P006": {
+    "name": "john",
+    "city": "boston",
+    "age": 20,
+    "gender": "male",
+    "height": 5.2,
+    "weight": 43.66,
+    "bmi": 1.61,
+    "verdict": "UnderWeight"
+  },
+  "P007": {
+    "name": "hima",
+    "city": "nyc",
+    "age": 50,
+    "gender": "female",
+    "height": 5.2,
+    "weight": 43.66,
+    "bmi": 1.61,
+    "verdict": "UnderWeight"
   }
 }
